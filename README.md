@@ -9,7 +9,7 @@ This automation simply creates a zoom meeting then take screenshot of the detail
 
 3-How to take screenshots ans store them in your device.
 
-4-How  to upload any data like images and stuff into scial media platforms
+4-How  to upload any data like images and stuff into social media platforms
 
 5-How to post thingson social media
 
