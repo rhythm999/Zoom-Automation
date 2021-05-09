@@ -1,6 +1,6 @@
 #SAVIOUR OF TEACHERS ACROSS THE WORLD
 
-This automation simply creates a zoom meeting then take screenshot of the details and copy them too. then it shares the information on social media platforms like rediit , facebook, and whatsapp. in this project i learned 
+This automation simply creates a zoom meeting then take screenshot of the details and copy them too. then it shares the information on social media platforms like rediit , facebook, and whatsapp. In this project i learned about-
 
 
 1-How to automate throughout the website. 
